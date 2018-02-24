@@ -5,3 +5,6 @@ A server may be configured such that unpriveledged identities must request tasks
 
 ### ConvoLOS for short
 Convolos, by happenstance, is almost latin for: "Fly or Flock Together"
+
+Uses ChatScript to interpret natural language input and allow administrators to edit the conversations their server will have with others.
+Uses py-validate to design programs that a chatbot personality can collect arguments to run.
